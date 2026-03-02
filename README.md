@@ -59,11 +59,11 @@
 
 <h2>How did I get to know programming?</h2>
 
-<p align="left">Hello, my name is Seyyed Amir Nima Ghaebi.
+<p align="left">Hello, my name is Ansh Gupta.
 
-    I am from the city of Zanjan. I was interested in electronics since I was a child. I wanted to learn and make more things. My cousin taught me about electronics and I progressed so much that I reached the programming section of Arduino boards and from there I fell in love with programming.
+    I am from the city of Gorakhpur. I was interested in electronics since I was a child. I wanted to learn and make more things. My cousin taught me about electronics and I progressed so much that I reached the programming section of Arduino boards and from there I fell in love with programming.
 
-    I started learning programming at the age of 12. I first learned C# language and despite all the difficulties I was able to become a professional in it, and with many courses I bought from sites like Faradars, I learned more difficult things, but with a good C# language. I couldn't achieve my goals in programming, so after a lot of searching and consulting with experienced programmers, I got to know the Flutter framework. At first, I watched a few courses of it on YouTube and saw that it had a lot of what I wanted, and finally the Flutter framework. I chose and started learning this powerful and cool framework.
+    I started learning programming at the age of 18. I first learned C# language and despite all the difficulties I was able to become a professional in it, and with many courses I bought from sites like Faradars, I learned more difficult things, but with a good C# language. I couldn't achieve my goals in programming, so after a lot of searching and consulting with experienced programmers, I got to know the Flutter framework. At first, I watched a few courses of it on YouTube and saw that it had a lot of what I wanted, and finally the Flutter framework. I chose and started learning this powerful and cool framework.
     The Flutter framework was what I wanted, it had the same widgets, the same features that I wanted, I could write the apps I wanted with it.
     When I learned Flutter up to the advanced chapters, I met the Flutter programming groups on Telegram. There, I could easily solve the errors I had in my project with their help, and they helped me a lot.
 
@@ -106,7 +106,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyyedAmirNimaGhaebi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenceisdiscipline&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@
 ---
 # 🖥 My best portfolios :
 
-![Untitled-1](https://github.com/SeyyedAmirNimaGhaebi/SeyyedAmirNimaGhaebi/assets/124828880/23c507ed-4b3d-424d-9ead-b824b5f8a911)
+![Untitled-1](silenceisdiscipline.netlify.app)
 <a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">👁 More details about the project</a>
 
 
