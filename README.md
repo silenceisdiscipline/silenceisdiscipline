@@ -1,64 +1,53 @@
 <div align="center">
 
-# 🌌 silenceisdiscpline
+# ⚡ silenceisdiscipline
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+System+Architect;Elite+Node.js+Developer;Discord+Infrastructure+Engineer;Automation+Strategist" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Systems+Architect;Backend+Specialist;Infrastructure+Automation" alt="Typing SVG" /></a>
 
 ---
 
-### 🖥️ System Identity
+### 🥷 System Identity
 
 ```bash
-root@Ansh:~$ whoami
-> Principal Software Engineer
-root@Ansh:~$ status --active
-> Architecting Aata.ai & ReBright Gen.ai
-root@Ansh:~$ tech-philosophy
-> Silence is discipline. Code is execution.
+$ pip show developer
+Name: Ansh
+Version: 1.0.0
+Summary: Principal Software Engineer & Architect
+Home-page: [https://github.com/silenceisdiscipline](https://github.com/silenceisdiscipline)
+Author: Ansh
+License: MIT
+Location: India
+Focus: Node.js, Python, System Design
+Current_Builds: Aata.ai, ReBright Gen.ai
 
-⚡ Technical Arsenal
+🚀 Technical Arsenal
 Core Systems & Languages
+
+
+
+<a href="https://www.google.com/search?q=https://skillicons.dev"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,nodejs,express,py,react,nextjs,tailwind,mongodb,postgres,redis,docker,linux,git,github,vscode%26theme%3Ddark" alt="Tech Stack" /></a>
+📊 Performance Metrics
 <p align="center">
-<a href="https://www.google.com/search?q=https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs%26theme%3Ddark" alt="JS" /></a>
-<a href="https://www.google.com/search?q=https://www.typescriptlang.org/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dts%26theme%3Ddark" alt="TS" /></a>
-<a href="https://www.google.com/search?q=https://nodejs.org/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs%26theme%3Ddark" alt="Node" /></a>
-<a href="https://www.google.com/search?q=https://expressjs.com/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexpress%26theme%3Ddark" alt="Express" /></a>
-<a href="https://www.google.com/search?q=https://python.org/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy%26theme%3Ddark" alt="Python" /></a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsilenceisdiscipline%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Main Stats" />
 </p>
-Frontend & Frameworks
 <p align="center">
-<a href="https://www.google.com/search?q=https://react.dev/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact%26theme%3Ddark" alt="React" /></a>
-<a href="https://www.google.com/search?q=https://nextjs.org/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnextjs%26theme%3Ddark" alt="Next" /></a>
-<a href="https://www.google.com/search?q=https://tailwindcss.com/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtailwind%26theme%3Ddark" alt="Tailwind" /></a>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsilenceisdiscipline%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsilenceisdiscipline%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Streak Stats" />
 </p>
-Data & Infrastructure
+🏆 Excellence & Contributions
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.mongodb.com/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb%26theme%3Ddark" alt="MongoDB" /></a>
-<a href="https://www.google.com/search?q=https://www.postgresql.org/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgres%26theme%3Ddark" alt="Postgres" /></a>
-<a href="https://www.google.com/search?q=https://redis.io/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dredis%26theme%3Ddark" alt="Redis" /></a>
-<a href="https://www.google.com/search?q=https://www.docker.com/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker%26theme%3Ddark" alt="Docker" /></a>
-<a href="https://www.google.com/search?q=https://www.linux.org/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux%26theme%3Ddark" alt="Linux" /></a>
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsilenceisdiscipline%26theme%3Dtokyonight%26no-bg%3Dtrue%26margin-w%3D15" alt="Trophies" />
 </p>
-Tools & Environment
+🐍 Activity Graph
 <p align="center">
-<a href="https://www.google.com/search?q=https://git-scm.com/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit%26theme%3Ddark" alt="Git" /></a>
-<a href="https://www.google.com/search?q=https://github.com/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithub%26theme%3Ddark" alt="GitHub" /></a>
-<a href="https://www.google.com/search?q=https://code.visualstudio.com/"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode%26theme%3Ddark" alt="VSCode" /></a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/silenceisdiscipline/silenceisdiscipline/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/silenceisdiscipline/silenceisdiscipline/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/silenceisdiscipline/silenceisdiscipline/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
-📊 Performance Analytics
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsilenceisdiscpline%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Main Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsilenceisdiscpline%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsilenceisdiscpline%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Streak Stats" />
-🏆 Excellence Tier
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsilenceisdiscpline%26theme%3Dtokyonight%26no-bg%3Dtrue%26margin-w%3D15" alt="Trophies" />
-🐍 Contribution Flow
-🖋️ Engineering Philosophy
-> "A clean codebase is a quiet mind."
-> I specialize in building "invisible" infrastructure—systems so efficient and stable they require zero intervention once deployed. My focus is on horizontal scalability, rigorous security protocols, and minimizing technical debt through disciplined architecture.
+🧠 Engineering Philosophy
+> "Code is a liability; logic is the asset."
+> True engineering isn't about complexity for its own sake, but about finding the most elegant, performant path to a solution. I specialize in building "invisible" infrastructure—systems so efficient and stable they require zero intervention once deployed.
 > 
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Architecture-Clean-white%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Stack-Full_JavaScript-yellow%3Fstyle%3Dflat-square" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ops-Docker_Linux-blue%3Fstyle%3Dflat-square" />
-</p>
 </div>
